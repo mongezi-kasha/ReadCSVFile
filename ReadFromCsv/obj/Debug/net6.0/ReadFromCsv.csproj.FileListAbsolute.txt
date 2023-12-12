@@ -1,0 +1,14 @@
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\bin\Debug\net6.0\ReadFromCsv.exe
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\bin\Debug\net6.0\ReadFromCsv.deps.json
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\bin\Debug\net6.0\ReadFromCsv.runtimeconfig.json
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\bin\Debug\net6.0\ReadFromCsv.dll
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\bin\Debug\net6.0\ReadFromCsv.pdb
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ReadFromCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ReadFromCsv.AssemblyInfoInputs.cache
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ReadFromCsv.AssemblyInfo.cs
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ReadFromCsv.csproj.CoreCompileInputs.cache
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ReadFromCsv.dll
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\refint\ReadFromCsv.dll
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ReadFromCsv.pdb
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ReadFromCsv.genruntimeconfig.cache
+C:\Users\monge\source\repos\ReadCSVFile\ReadFromCsv\obj\Debug\net6.0\ref\ReadFromCsv.dll
